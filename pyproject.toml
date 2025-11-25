@@ -1,0 +1,24 @@
+[project]
+name = "campus-connect-grading-portal-interface"
+version = "0.1.0"
+description = "Terminal-first PKMS, task manager, and AI chat interface for DePaul Campus Connect"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  {name = "Vlad M", email = "student@depaul.edu"}
+]
+dependencies = []
+
+[project.optional-dependencies]
+llm = ["openai>=1.54.0"]
+dev = ["pytest>=8.0", "ruff>=0.6.7"]
+
+[project.scripts]
+campus-connect-cli = "campus_connect_portal.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.package-data]
+"campus_connect_portal.sample_data" = ["*.json"]

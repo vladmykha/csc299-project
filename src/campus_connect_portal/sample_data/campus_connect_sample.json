@@ -1,0 +1,35 @@
+[
+  {
+    "record_id": "CSC299-Fall25-Midterm",
+    "course": "CSC 299 - Software Projects",
+    "component": "Midterm Project",
+    "grade": "A-",
+    "points": "92/100",
+    "updated_at": "2025-11-20T15:30:00-06:00",
+    "campus_area": "Grades",
+    "needs_follow_up": false,
+    "notes": "Feedback indicates strong AI integration; finalize documentation."
+  },
+  {
+    "record_id": "CSC394-Fall25-Assignment4",
+    "course": "CSC 394 - Agile Software Development",
+    "component": "Assignment 4",
+    "grade": "Pending",
+    "points": null,
+    "updated_at": "2025-11-21T10:05:00-06:00",
+    "campus_area": "Grades",
+    "needs_follow_up": true,
+    "notes": "Instructor flagged rubric change; monitor for regrade."
+  },
+  {
+    "record_id": "FinancialAid-LoanCounseling",
+    "course": null,
+    "component": "Loan Entrance Counseling",
+    "grade": null,
+    "points": null,
+    "updated_at": "2025-11-18T09:00:00-06:00",
+    "campus_area": "Financial Aid",
+    "needs_follow_up": true,
+    "notes": "Complete counseling on federal site before Nov 30 deadline."
+  }
+]
