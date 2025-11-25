@@ -44,6 +44,7 @@ Everything runs in Python 3.11+, stores state in a local SQLite database, and wo
 │   └── campus_connect_sample.json
 ├── docs/
 │   ├── PROJECT_PLAN.md
+│   ├── MOBILE_LOGIN_MOCK.md
 │   └── USAGE.md
 └── src/
     └── campus_connect_portal/
@@ -75,7 +76,7 @@ campus-connect-cli chat
 
 Set `OPENAI_API_KEY` if you want live LLM completions. Without it, the chat agent still responds using local heuristics, citing the notes/tasks that matched your query.
 
-See `docs/USAGE.md` for more detailed workflows and a regression checklist.
+See `docs/USAGE.md` for more detailed workflows and a regression checklist. Preview the mobile-first login experience (Pulse-style Campus Connect handoff) in `docs/MOBILE_LOGIN_MOCK.md`.
 
 ## Assignment alignment
 
