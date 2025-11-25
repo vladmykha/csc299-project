@@ -4,6 +4,10 @@ Terminal-first personal knowledge management system (PKMS), task tracker, and AI
 
 > **Course link**: https://fpl.cs.depaul.edu/cpitcher/courses/csc299/worksheets/project.html
 
+## Task breakdown
+
+The repo mirrors the five-task structure from the CSC 299 example (`tasks1` … `tasks5`). Each folder documents what changed, why, and how to verify it. See `SUMMARY.md` for a quick index.
+
 ## Why this project exists
 
 Campus Connect centralizes grades, registration, and tuition alerts, but it is cumbersome to use on the go. This project provides a portable workflow that:
