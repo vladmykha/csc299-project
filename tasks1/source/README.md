@@ -6,12 +6,7 @@ Terminal-first personal knowledge management system (PKMS), task tracker, and AI
 
 ## Task breakdown
 
-The repo mirrors the five-task structure from the CSC 299 example (`tasks1` … `tasks5`). Each folder now contains:
-- `PLAN.md` (inputs + steps),
-- `README.md` (status + verification),
-- `source/` snapshots of the relevant code or docs for that milestone.
-
-See `SUMMARY.md` for a quick index.
+The repo mirrors the five-task structure from the CSC 299 example (`tasks1` … `tasks5`). Each folder now contains both a README (status + verification) and a PLAN (inputs + steps). See `SUMMARY.md` for a quick index.
 
 ## Why this project exists
 
